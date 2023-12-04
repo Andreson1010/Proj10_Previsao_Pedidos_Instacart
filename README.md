@@ -15,6 +15,9 @@ eles usam dados transacionais para desenvolver modelos que preveem quais
 produtos um usuário comprará novamente, quais tentará pela primeira vez ou
 quais adicionará ao carrinho durante uma sessão. 
 
+Dados:
+https://drive.google.com/file/d/15PKd6m8d9ee9lRMvvfpd8mhQw1kN-XNS/view?usp=drive_link
+
 Neste projeto de ciência de dados, você usará esses dados anônimos nos
 pedidos dos clientes ao longo do tempo para prever quais produtos adquiridos
 anteriormente estarão no próximo pedido de um usuário.
