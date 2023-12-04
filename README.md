@@ -13,9 +13,11 @@ A equipe de ciência de dados da Instacart desempenha um papel
 importante no fornecimento dessa experiência de compra agradável. Atualmente,
 eles usam dados transacionais para desenvolver modelos que preveem quais
 produtos um usuário comprará novamente, quais tentará pela primeira vez ou
-quais adicionará ao carrinho durante uma sessão. Recentemente, a Instacart
-disponibilizou esses dados de forma aberta e o link para download você encontra
-logo abaixo
+quais adicionará ao carrinho durante uma sessão. 
+
 Neste projeto de ciência de dados, você usará esses dados anônimos nos
 pedidos dos clientes ao longo do tempo para prever quais produtos adquiridos
 anteriormente estarão no próximo pedido de um usuário.
+
+
+
